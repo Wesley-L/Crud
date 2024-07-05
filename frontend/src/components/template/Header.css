@@ -1,0 +1,11 @@
+header.header {   /* uma tag do tipo header que tenha classe header */
+    background-color: #FFF;
+    padding: 0px 15px;
+    overflow: hidden;
+    white-space: nowrap;
+    box-shadow: var(--shadow);
+}
+
+header.header h1 { /* um h1 que esteja dentro de um header com classe header */
+    font-size: 1.8em;
+}
